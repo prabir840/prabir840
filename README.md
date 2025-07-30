@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **Text-to-Handwritten Generator**
-- 🌱 Learning: **React.js, Tailwind CSS**
+- 🌱 Learning: **DSA, React.js, Tailwind CSS**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/prabir840)
 - 📫 How to reach me: **prabir840@gmail.com**
 - ⚡ Fun fact: I debug with music 🎧
