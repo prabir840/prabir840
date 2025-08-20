@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabir Samanta</h1>
 <h3 align="center">💻 B.Tech CSE Student | Front-End Developer | Passionate about Learning & Building</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=435&lines=Building+beautiful+web+apps+💻;Learning+new+tech+every+day+🚀;Available+for+internships+🔥" alt="Typing SVG" />
-</p>
+
 
 ---
 
